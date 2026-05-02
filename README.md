@@ -30,10 +30,7 @@ efficient-frontier-optimization/
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
 
- Mathematical FoundationThe optimization engine solves for weights ($w$) that minimize portfolio variance ($\sigma_p^2$) for a target return ($E[R_p]$):$$ \min \sigma_p^2 = w^T \Sigma w $$Subject to:$\sum w_i = 1$ (Full investment)$w_i \ge 0$ (No short-selling constraint)$w^T \mu = E[R_p]$ (Target return constraint)🚀 How to RunClone the Repo:Bashgit clone [https://github.com/your-username/efficient-frontier-optimization.git](https://github.com/your-username/efficient-frontier-optimization.git)
-Install Requirements:Bashpip install -r requirements.txt
-Execute Analysis:Open notebooks/portfolio_optimization_research.ipynb in your preferred editor to view the full analysis.📈 Key InsightsDemonstrated how diversification shifts the frontier to the left, reducing idiosyncratic risk.Identified the "Tangency Portfolio" which provides the highest return per unit of risk based on current risk-free rates.Contact: [Your Name] - [Your LinkedIn Link]
----
+ 
 
 ### Why this works:
 1.  **Badges:** The blue and gold badges at the top make the project look like a professional library.
