@@ -1,5 +1,4 @@
-# efficient-frontier-optimization
-Portfolio optimization using Modern Portfolio Theory (MPT) and Monte Carlo simulations in Python.
+
 # Efficient Frontier & Portfolio Optimization
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
