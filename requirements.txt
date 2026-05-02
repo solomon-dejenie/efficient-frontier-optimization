@@ -1,1 +1,9 @@
 Project dependencies
+pandas
+numpy
+scipy
+matplotlib
+plotly
+yfinance
+statsmodels
+pytest
